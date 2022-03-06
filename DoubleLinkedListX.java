@@ -1,5 +1,10 @@
 package asdlTugas2;
 
+// Created by Sriwijaya University	//
+// Billingual Class A 2021		//
+// Group 1 				//
+// Advanced Algorithm & Data Structure	//
+
 import java.util.*;
 
 public class DoubleLinkedListX {
